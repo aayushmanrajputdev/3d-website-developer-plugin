@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "3d-website-developer",
+  "version": "1.0.0",
+  "description": "Master AI skill for building 3D websites, WebGL experiences, React Three Fiber components, GSAP scroll-driven animations, and GLSL shaders using OpenCode, Claude Code, and ChatGPT (Codex).",
+  "author": {
+    "name": "Aayushman Rajput",
+    "url": "https://github.com/aayushmanrajputdev"
+  },
+  "homepage": "https://github.com/aayushmanrajputdev/3d-website-developer-skill#readme",
+  "repository": "https://github.com/aayushmanrajputdev/3d-website-developer-skill",
+  "license": "MIT",
+  "keywords": ["3d-website", "threejs", "react-three-fiber", "webgl", "gsap-scrolltrigger", "glsl", "opencode-skill", "claude-code", "shadcn", "vite"],
+  "extensions": {
+    "opencode": {
+      "category": "Frontend & Web Apps",
+      "tags": ["3d-web", "threejs", "react-three-fiber", "webgl", "gsap", "glsl", "animation"]
+    }
+  }
+}
